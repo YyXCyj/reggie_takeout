@@ -6,11 +6,13 @@
 >>
 >>移动端应用主要提供给消费者使用，可以在线浏览菜品、添加购物车、下单等。
 
+>>后台登陆图
+
+![后台登陆图](https://github.com/YyXCyj/reggie_takeout/blob/master/images/%E7%99%BB%E5%BD%95.png)
+
 ![员工列表图](https://github.com/YyXCyj/reggie_takeout/blob/master/images/%E5%91%98%E5%B7%A5%E5%88%97%E8%A1%A8.png)
 
 ![添加员工图](https://github.com/YyXCyj/reggie_takeout/blob/master/images/%E6%B7%BB%E5%8A%A0%E5%91%98%E5%B7%A5.png)
-
-![后台登陆图](https://github.com/YyXCyj/reggie_takeout/blob/master/images/%E7%99%BB%E5%BD%95.png)
 
 ![菜品分类图](https://github.com/YyXCyj/reggie_takeout/blob/master/images/%E8%8F%9C%E5%93%81%E5%88%86%E7%B1%BB.png)
 
